@@ -1,0 +1,16 @@
+,,,
+,"table ""participants"": contains all the participants of the experiment",,
+,,,
+,,field name,description
+,,user_id,id of users who participated in our experiment
+,,test_group,group of experiment user entered
+,,test_entrance_time,time when users entered the experiment
+,,,
+,,,
+,,,
+,"table ""transactions"": contains all the transactions for some period of time",,
+,,,
+,,field name,description
+,,user_id,id of users who paid during some period of time
+,,gmv,amount in usd company earn from a transaction
+,,payment_time,time when users completed the payment
