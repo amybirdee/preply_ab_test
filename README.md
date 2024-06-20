@@ -1,1 +1,1 @@
-Take-home assignment for Preply language app
+AB test for Preply language app
